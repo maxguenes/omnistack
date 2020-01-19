@@ -2,3 +2,7 @@
 backend/node_modules/
 
 backend/.vscode/
+
+mobile/.expo-shared/
+
+mobile/.vscode/
